@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "colin",
+    "image": "./images/colin.jpg",
+    "selected": false
+  },
+  {
+    "id": 2,
+    "name": "deacon",
+    "image": "./images/deacon.jpg",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "name": "guillermo",
+    "image": "./images/guillermo.jpg",
+    "selected": false
+  },
+  {
+    "id": 4,
+    "name": "jackie",
+    "image": "./images/jackie.jpg",
+    "selected": false
+  },
+  {
+    "id": 5,
+    "name": "jenna",
+    "image": "./images/jenna.jpg",
+    "selected": false
+  },
+  {
+    "id": 6,
+    "name": "laszlo",
+    "image": "./images/laszlo.jpg",
+    "selected": false
+  },
+  {
+    "id": 7,
+    "name": "nadja",
+    "image": "./images/nadja.jpg",
+    "selected": false
+  },
+  {
+    "id": 8,
+    "name": "nandor",
+    "image": "./images/nandor.jpg",
+    "selected": false
+  },
+  {
+    "id": 9,
+    "name": "pauline",
+    "image": "./images/pauline.jpg",
+    "selected": false
+  },
+  {
+    "id": 10,
+    "name": "petyr",
+    "image": "./images/petyr.jpg",
+    "selected": false
+  },
+  {
+    "id": 11,
+    "name": "viago",
+    "image": "./images/viago.jpg",
+    "selected": false
+  },
+  {
+    "id": 12,
+    "name": "vladislav",
+    "image": "./images/vladislav.jpg",
+    "selected": false
+  }
+]
