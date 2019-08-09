@@ -5,7 +5,7 @@ function CharacterCard(props) {
     return (
         <div className="card">
             <div className="image-container">
-                <img alt={props.name} src={props.image} />
+                <img id={props.id} alt={props.name} src={props.image} onClick={() => props.shuffle(props.id)} />
             </div>
         </div>
     );
