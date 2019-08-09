@@ -1,3 +1,28 @@
+
+# click_memory
+
+<!-- ![Giftastic gif Generator](./assets/images/SuperheroGIFGeneratorBanner.png) -->
+
+## **This game is designed to test a user's memory using images**
+## *https://shimmer10.github.io/click_memory/*
+
+### **The page starts by loading all images**
+     * The player then selects their first image by clicking on it
+     * The player's score is incremented by one
+### **The player will continue to click until they have either won or lost**
+     * The player wins if they select all twelve images without repeating
+     * The player loses if they click on an image they have already chosen before during the game
+### **If the player wins ***
+     * A message will be displayed telling them they have won
+     * The player can play again by selecting any image
+     * The score is reset as soon as they select an image
+### **If the player loses**
+     * A message will be displayed telling them they have lost
+     * The player can play again by selecting any image
+     * The score is reset as soon as they select an image
+
+_______________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
