@@ -4,6 +4,7 @@
 }
 
 html, body, #root {
+  background-image: url("background.jpg");
   padding: 0;
   margin: 0;
   height: 100%;
